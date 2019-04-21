@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "887737205484",
+    "firebase_url": "https://sickanimationbro-d1360.firebaseio.com",
+    "project_id": "sickanimationbro-d1360",
+    "storage_bucket": "sickanimationbro-d1360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887737205484:android:b08bdc117b0ab22c",
+        "android_client_info": {
+          "package_name": "com.chamelon.sabadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887737205484-lh86gj6phcrs0injgo6nk7ci1fbs1a85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chamelon.sabadmin",
+            "certificate_hash": "ecffff9852b693d46fa633e969affc0d027fb12b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8KXN0WELdYZ2AYVIQV2H7c9iz20VwfRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887737205484-0a3dkf592bh24995oi81tmlgq5qin50s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887737205484:android:4504d63fbaab47d8",
+        "android_client_info": {
+          "package_name": "com.chamelon.sickanimationbro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887737205484-sqnvugruajqf7bikice86mp55lcsp5p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chamelon.sickanimationbro",
+            "certificate_hash": "ecffff9852b693d46fa633e969affc0d027fb12b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8KXN0WELdYZ2AYVIQV2H7c9iz20VwfRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887737205484-0a3dkf592bh24995oi81tmlgq5qin50s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
